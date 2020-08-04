@@ -1,0 +1,10 @@
+Desktop Asset ID: PC301912
+Serial Number: PG002WNR
+Make and Model: Lenovo ThinkCentre
+RAM available in Desktop: 4 GB
+OS Bit: 64
+Bank Label: 0
+Capacity : 4294967296
+Memory Type: 24
+TypeDetail: 128
+Speed: 1600
